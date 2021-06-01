@@ -75,7 +75,3 @@ district_summary['% Passing Math'] = district_summary['% Passing Math'].map("{:.
 district_summary['% Passing Reading'] = district_summary['% Passing Reading'].map("{:.2f}".format)
 district_summary['% Overall Passing'] = district_summary['% Overall Passing'].map("{:.2f}".format)
 ```
-```
-	Total Schools	Total Students	Total Budget	Average Math Score	Average Reading Score	% Passing Math	% Passing Reading	% Overall Passing
-0	15	39,170	$24,649,428.00	78.99	81.88	74.98	85.81	65.17
-```
